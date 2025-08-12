@@ -22,4 +22,6 @@ Clone the repo and make the script executable:
 git clone https://github.com/yourusername/way_extractor.git
 cd way_extractor
 chmod +x way_extractor.py
+python3 way_extractor.py -h 
 ```
+**Note: Running `python3 way_extractor.py` scan current path so be careful while running**
