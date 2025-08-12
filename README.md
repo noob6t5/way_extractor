@@ -13,9 +13,6 @@ The tool recursively scans files or entire directories, applying targeted regex 
 
 ## Requirements
 - **Python 3.8+**
-- Runs on Linux, macOS, or Windows.
-- No external dependencies.
-
 ---
 
 ## Installation
@@ -25,3 +22,4 @@ Clone the repo and make the script executable:
 git clone https://github.com/yourusername/way_extractor.git
 cd way_extractor
 chmod +x way_extractor.py
+```
